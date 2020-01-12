@@ -1,0 +1,40 @@
+.user-account .user-photo {
+    width: 50px;
+    vertical-align: top;
+    border: 2px solid #dfdede;
+}
+.user-account .dropdown {
+    text-align: left;
+}
+.user-account .user-photo, .user-account .dropdown .dropdown-menu a i, .list-referrals .value, .top_counter .icon, .right_chat .media .media-object, .testimonial4 .carousel-info img {
+    margin-right: 10px;
+}
+.align-left, .user-account, .user-account .dropdown, .block-header .bh_chart, .accordion .card-header .btn, .attendance_list tr td:first-child, .attendance_list tr th:first-child, .chat-widget li.left .chat-info, .testimonial2 .testimonial-desc {
+    text-align: left;
+}
+.user-account {
+    margin: 20px;
+}
+#left-sidebar {
+    -webkit-transition: all 0.3s ease-in-out;
+    -moz-transition: all 0.3s ease-in-out;
+    -ms-transition: all 0.3s ease-in-out;
+    -o-transition: all 0.3s ease-in-out;
+    transition: all 0.3s ease-in-out;
+    width: 250px;
+    background-color: #f4f7f6;
+    height: 100%;
+    float: left;
+    margin-top: 65px;
+    position: fixed;
+    left: 5px;
+    z-index: 9;
+}
+.sidebar {
+    overflow-y: scroll;
+    scrollbar-width: none;
+    -ms-overflow-style: none;
+}
+.rounded-circle {
+    border-radius: 50%!important;
+}
