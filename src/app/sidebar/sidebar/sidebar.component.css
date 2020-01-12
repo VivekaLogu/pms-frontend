@@ -9,6 +9,16 @@
 .user-account .user-photo, .user-account .dropdown .dropdown-menu a i, .list-referrals .value, .top_counter .icon, .right_chat .media .media-object, .testimonial4 .carousel-info img {
     margin-right: 10px;
 }
+.user-account .user-name {
+    color: inherit;
+}
+#left-sidebar .nav-tabs .nav-link.active {
+    color: #f68c1f;
+}
+#left-sidebar .nav-tabs .nav-link.active {
+    background-color: transparent;
+    border-color: #dee2e6 #dee2e6 #f4f7f6;
+}
 .align-left, .user-account, .user-account .dropdown, .block-header .bh_chart, .accordion .card-header .btn, .attendance_list tr td:first-child, .attendance_list tr th:first-child, .chat-widget li.left .chat-info, .testimonial2 .testimonial-desc {
     text-align: left;
 }
